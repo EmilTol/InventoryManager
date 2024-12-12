@@ -107,7 +107,7 @@ public class Main {
                         }
                     }
                     case 7 -> {
-                        System.out.println("You chose 7");
+                        System.out.println("You chose 7asdas");
                         System.out.println("Indtast id for 'item', der skal tilføjes");
                         int itemId = input.nextInt();
                         String a2i = inventory.addItemToInventory(inventory.getId(), itemId);
